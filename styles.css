@@ -115,7 +115,7 @@ body::before {
 
 .click.active {
     transition-delay: 1s;
-    transform: translateY(-325px);
+    transform: translateY(-375px);
 }
 
 .click::before {
@@ -147,7 +147,7 @@ body::before {
     content: '';
     position: relative;
     width: 340px;
-    height: 40px;
+    height: 100px;
     background: rgba(0, 0, 0, 0.4);
     top: 100px;
     border-radius: 50%;
@@ -188,9 +188,9 @@ body::before {
 .card-container {
     position: absolute;
     display: flex;
-    top: -120px;
+    top: -165px;
     width: 415px;
-    height: 265px;
+    height: 365px;
     align-items: center;
     justify-content: center;
     z-index: -1;
@@ -261,11 +261,11 @@ body::before {
     font-size: 20px;
     font-weight: 700;
     width: 400px;
-    height: 250px;
+    height: 350px;
     background-image: url('./Public/hearts.gif');
 }
 
 .card-front .card-img {
     width: 400px;
-    height: 250px;
+    height: 350px;
 }
