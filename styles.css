@@ -189,7 +189,7 @@ body::before {
     position: absolute;
     display: flex;
     top: -120px;
-    width: 515px;
+    width: 415px;
     height: 265px;
     align-items: center;
     justify-content: center;
@@ -260,12 +260,12 @@ body::before {
     background: rgb(252, 249, 235);
     font-size: 20px;
     font-weight: 700;
-    width: 500px;
+    width: 400px;
     height: 250px;
     background-image: url('./Public/hearts.gif');
 }
 
 .card-front .card-img {
-    width: 500px;
+    width: 400px;
     height: 250px;
 }
